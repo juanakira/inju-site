@@ -15,7 +15,7 @@
 
 ## How to make it work 
 
-- Log in with ur github account to [Netlify]() and authorize it to see your "repositories".
+- Log in with ur github account to [Netlify](https://www.netlify.com/) and authorize it to see your "repositories".
 - Click on this one (should be called inju-site)
 - Wait a bit
 - Rename it using the "Domain Settings". u can change it to "inju.netlify.app" if it's not taken. you can also use a custom domain following their instructions (purchase required)
